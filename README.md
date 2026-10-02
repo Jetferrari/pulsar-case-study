@@ -1,8 +1,8 @@
-# Pulso
+# Pulsar
 
 ## Case Study
 
-Pulso is a private financial decision intelligence project focused on combining deterministic software with governed AI capabilities.
+Pulsar is a private financial decision intelligence project focused on combining deterministic software with governed AI capabilities.
 
 This repository is a portfolio case study. It does not contain the private source code or the internal technical artifacts of the product.
 
@@ -38,7 +38,7 @@ The implementation workflow is AI assisted, but architectural responsibility and
 
 ## Engineering Approach
 
-Pulso separates probabilistic AI capabilities from deterministic system authority.
+Pulsar separates probabilistic AI capabilities from deterministic system authority.
 
 A simplified public representation is:
 
@@ -124,7 +124,7 @@ This list describes demonstrated engineering areas. It is not intended to expose
 
 ## Current Boundaries
 
-Pulso is an active development project.
+Pulsar is an active development project.
 
 The current work demonstrates domain foundations, AI application services, evaluation governance and automated engineering controls.
 
@@ -145,6 +145,6 @@ The private implementation, prompts, internal schemas, evaluation datasets, deta
 
 ## Portfolio Context
 
-Pulso demonstrates one side of my work: building AI capabilities that operate inside explicit engineering constraints.
+Pulsar demonstrates one side of my work: building AI capabilities that operate inside explicit engineering constraints.
 
-For a complementary example focused on conventional product engineering, APIs, persistence and commerce workflows, see the ArcanoZero case study in my GitHub profile.
+For a complementary example focused on conventional product engineering, APIs, persistence and commerce workflows, see the RestaurantZero case study in my GitHub profile.
