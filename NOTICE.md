@@ -6,7 +6,7 @@ This repository is a public portfolio case study.
 
 No license is granted for copying, redistribution, derivative works or commercial reuse of the materials presented here except where required by applicable law.
 
-The underlying Pulso project is private.
+The underlying Pulsar project is private.
 
 This repository intentionally excludes:
 
