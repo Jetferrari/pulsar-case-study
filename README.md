@@ -18,23 +18,26 @@ It is defining exactly where probabilistic behavior is useful, where it must sto
 
 ## My Role
 
-I direct the product and engineering process using AI coding agents as implementation collaborators.
+My direct contribution is product conception, problem definition, expected outcome design, solution planning with AI, constraint definition, agent orchestration, and final behavior validation.
+
+I do not manually write implementation code or perform line-by-line code review. AI coding agents execute the technical implementation from the context, constraints, specifications, tests, and validation criteria defined during the process.
 
 My responsibilities include:
 
 * Product definition
-* System decomposition
-* Architecture decisions
-* Domain boundaries
-* Technical specifications
+* Problem decomposition
+* High-level architecture planning with AI
+* Domain and system boundaries
+* Constraints and specifications
 * Agent task design
 * Acceptance criteria
-* Review and validation
+* AI-assisted review coordination
 * Evaluation strategy
 * Governance rules
+* Result validation
 * Iterative correction
 
-The implementation workflow is AI assisted, but architectural responsibility and acceptance remain human directed.
+I approve progress based on product behavior, test evidence, architecture checks, and whether the delivered result matches the plan.
 
 ## Engineering Approach
 
@@ -87,7 +90,7 @@ System boundaries and engineering constraints are treated as enforceable parts o
 
 ### Agent Directed Development
 
-Coding agents execute substantial implementation work from specifications, constraints and acceptance criteria, followed by review and evidence based validation.
+Coding agents execute the implementation from specifications, constraints, tests, and acceptance criteria. Review is coordinated through AI, while final acceptance is based on behavior, evidence, and alignment with the planned result.
 
 ## Engineering Principles
 
@@ -120,7 +123,7 @@ The private implementation currently includes work across:
 * Evaluation tooling
 * AI governance
 
-This list describes demonstrated engineering areas. It is not intended to expose the private repository structure.
+This list describes technologies and engineering areas present in the project. It does not imply that I manually program each listed language, framework, or tool, and it is not intended to expose the private repository structure.
 
 ## Current Boundaries
 
